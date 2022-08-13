@@ -1,1 +1,3 @@
-这里面存放的是训练用的图片文件。
+# Original Image
+
+This holds the image files for training.
